@@ -1,3 +1,9 @@
+/*   File name: books.js
+     Student name: Parth Patel
+     Student ID: 301207843
+     Web page: favourite books 
+*/
+
 let mongoose = require('mongoose');
 
 // create a model class
