@@ -1,5 +1,4 @@
-# COMP229-M2021-MidTerm Test
 
-## Welcome to the MidTerm Project - the Favourite Book List App
+## Welcome to the Project - the Favourite Book List App
 
-please use **`npm install`** to install project dependencies
+explanation video: [YouTube Video] (https://www.youtube.com/watch?v=TmOORTfFzAc)
